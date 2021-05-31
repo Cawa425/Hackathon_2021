@@ -1,0 +1,22 @@
+
+=== Wed Apr  7 16:10:00 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.3 to 3.0.5
+  com.unity.ide.visualstudio from version 2.0.5 to 2.0.7
+  com.unity.postprocessing from version 3.0.2 to 3.1.0
+  com.unity.test-framework from version 1.1.22 to 1.1.24
+  com.unity.textmeshpro from version 3.0.3 to 3.0.4
+  com.unity.timeline from version 1.5.1-pre.3 to 1.5.2
+  com.unity.xr.oculus from version 1.7.0 to 1.8.1
+
+=== Wed Apr  7 23:42:41 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.sprite@1.0.0

@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Scipts.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Envy\Hackaton2021\Hackathon_2021\Assets\Scipts\.idea\.idea.Scipts.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
